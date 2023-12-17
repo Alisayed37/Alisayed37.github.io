@@ -1,3 +1,6 @@
+---
+categories: [Roadmaps]
+---
 ## Programming
 
 Programming is a crucial skill in the cybersecurity field, enabling professionals to create and automate tools for tasks like penetration testing and vulnerability scanning. Some important programming languages to learn for cybersecurity include:
