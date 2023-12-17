@@ -82,5 +82,3 @@ APIsec is a certification teaching students how to identify, assess, and mitigat
 The cybersecurity field is challenging and rewarding, requiring a strong foundation of knowledge and skills. The roadmap provides options for achieving this foundation, including certifications like Network+, Linux+, eJPT, and APIsec, along with programming and web language skills. Continuous learning and staying updated with industry developments are essential for success in this field.
 
 ---
-
-[Back to Main Page](/)
