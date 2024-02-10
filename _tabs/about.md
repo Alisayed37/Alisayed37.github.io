@@ -14,7 +14,7 @@ I'm Ali, a cybersecurity enthusiast based in vibrant Cairo, Egypt! My passion li
 
 **Education & Certifications:**
 - Currently pursuing my Computer Science degree at Ain Shams University, Cairo.
-- Certified in eWPTX, eMAPT, Cisco CyberOps Associate, and various CompTIA certifications.
+- Certified in eWPTX, eCPPT, eMAPT, Cisco CyberOps Associate, and various CompTIA certifications.
 
 **Experience Snapshots:**
 - Led cybersecurity initiatives, assessing security for live applications, and creating structured training programs.
