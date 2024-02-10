@@ -1,5 +1,5 @@
 ---
-title: "MyVault"
+title: "MyVault Writeup"
 date: 2024-02-10 +0800
 categories: [CTFs Writeups]
 ---
