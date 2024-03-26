@@ -61,16 +61,16 @@ APIsec is a certification teaching students how to identify, assess, and mitigat
 
 ### Network+
 - [Free study material on YouTube](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G)
-or
+  - or
 - [Free Cybrary course](https://app.cybrary.it/browse/course/comptia-network-plus)
-or
+  - or
 - [Non-free Udemy course](https://www.udemy.com/course/comptia-network-cert-n10-007-the-total-course)
 
 ### Linux+
 - [Free study material on YouTube](https://www.youtube.com/playlist?list=PLAZ__zcDB1IaNaVNOckNpgEpjghSHr8Gg)
-    or
+   - or
 - [Free Cybrary course](https://app.cybrary.it/browse/course/comptia-linux-plus)
-    and/or
+  - and/or
 - [Non-free Udemy course](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)
 - [Practice Linux](#practice-hacking)
 
@@ -80,9 +80,9 @@ or
 ### eWAPT, eWAPTX
 - Free study material on YouTube
   - [Ibrahim Hegazy](https://www.youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj)
-    and
+    - and
   - [Mohamed Sayed](https://www.youtube.com/playlist?list=PLsB1gqjeUAh_99a9LbVbxg-nBV79o0kW3)
-    and/or
+    - and/or
   - [Arab HackSploit](https://www.youtube.com/watch?v=j05Epr7N4f8&list=PLTSGZiCtCBfMMLkmaN7tGEhbc0QbOEtEA)
 - [Notes available on LinkedIn](https://www.linkedin.com/posts/joas-antonio-dos-santos_elearnsecurity-junior-penetration-testing-activity-7026519525810483200-1vhr?utm_source=share&utm_medium=member_desktop)
 
